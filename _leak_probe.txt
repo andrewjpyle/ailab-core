@@ -1,0 +1,2 @@
+denylist self-test probe (throwaway branch, never merged):
+/private/tmp/claude-501/-Users-andrewpyle-PAD-projects-autonomous-aj-command-center/probe
